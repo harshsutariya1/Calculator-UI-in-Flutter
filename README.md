@@ -1,5 +1,4 @@
-# expanded
-
+# Calc UI
 A new Flutter project.
 
 ## Getting Started
